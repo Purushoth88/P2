@@ -1,0 +1,50 @@
+CAIRO
+	La rosa púrpura del ...
+COLOR
+	... púrpura
+EL
+	... color d... dinero
+	... dinero llama al dinero
+	... nombre de la rosa
+LA
+	... misión
+	... rosa del azafrán
+	... rosa púrpura del Cairo
+MISIÓN
+	... : imposible
+TOMA
+	... el dinero y corre
+AL
+	El dinero llama ... dinero
+AZAFRÁN
+	La rosa del ...
+COLOR
+	El ... del dinero
+CORRE
+	Toma el dinero y ...
+DEL
+	El color ... dinero
+	La rosa ... azafrán
+	La rosa púrpura ... Cairo
+DINERO
+	El color del ...
+	El ... llama al ...
+	Toma el ... y corre
+IMPOSIBLE
+	Misión : ...
+LLAMA
+	El dinero ... al dinero
+MISIÓN
+	La ...
+NOMBRE
+	El ... de la rosa
+PÚRPURA
+	Color ...
+	La rosa ... del Cairo
+ROSA
+	El nombre de la ...
+	La ... del azafrán
+	La ... púrpura del Cairo
+Y
+	Toma el dinero ... corre
+

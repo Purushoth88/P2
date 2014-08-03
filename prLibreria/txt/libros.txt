@@ -1,0 +1,17 @@
+literatura:1001001:EL VIOLIN DE AUSCHWITZ:MARIA ANGELS ANGLADA:14.96:10:20
+literatura:1001002:LOS HIJOS DEL SILENCIO:PALMIRA MARTIN SANZ:18.00:10
+literatura:1001003:LA AUTOPISTA DEL SUR:JULIO CORTAZAR:8.00:6:10
+literatura:1001004:ZUMBIDO:JUAN SEBASTIAN CARDENAS:15.00:5
+literatura:1001005:EL DRAGON Y LA LUNA:GLORIA LIMA:10.00:5
+infantil:1001006:La segunda vida de Bree Tanner:Stephenie Meyer:14.20:10:10
+infantil:1001007:Despedida:Claudia Gray:13.25:5
+infantil:1001008:Diario de Greg 4. Días de perros:Jeff Kinney:14.25:10
+infantil:1001008:Code Lyoko 2. La ciudad sin nombre:Jeremy Belpois:13.25:10:10
+infantil:1001009:El principito:Antoine de Saint-Exupéry:5.95:10:10
+novedades:1001010:La última noche en Twisted River:John irving:26:10
+novedades:1001011:Autobiografía sin vida:Félix de Azúa:17.90:5
+novedades:1001012:La evolución de Calpunia Tate:Jacqueline Kelly:18:5
+cocina:1001013:La escuela de cocina:Jamie Oliver:30.40:5
+cocina:1001013:Tartas. Cocina casera:Delphine De Montalier:19.90:5:10
+cocina:1001014:Vacaciones en la cocina:Miguel Ángel Mendo:7.30:7
+cocina:1001015:1080 recetas de cocina:Simone Ortega:14.90:10

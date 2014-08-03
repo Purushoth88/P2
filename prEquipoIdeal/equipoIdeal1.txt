@@ -1,0 +1,5 @@
+neuer PORTERIA 6
+lahm DEFENSA 7
+ozil CENTRO 9
+klose ATAQUE 9
+
